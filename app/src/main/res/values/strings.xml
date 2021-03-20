@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take Notes</string>
+    <string name="clear">CLEAR</string>
+    <string name="save">SAVE</string>
+    <string name="insert">Enter text here!!</string>
+    <string name="display_Notes">Your Notes Will Appear Here!!</string>
+</resources>
